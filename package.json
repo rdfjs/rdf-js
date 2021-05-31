@@ -11,7 +11,7 @@
     "rdfjs", "rdfjs"
   ],
   "dependencies": {
-    "@rdf-js/types": "*"
+    "@rdfjs/types": "*"
   },
   "author": "Ruben Taelman <rubensworks@gmail.com>",
   "license": "MIT",
